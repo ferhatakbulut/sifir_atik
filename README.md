@@ -1,15 +1,29 @@
-# sifir_atik
-Sıfır Atık Projesi
-
-Projenini Full Görünümü
-
-sanliurfaidep-full-page.png
+<h1 align="center"> Sıfır Atık Projesi Ekran Görüntüleri </h1>
+<br>
 
 
-Mobil Menu
 
-sanliurfaidep-mobil-menu.png
+## Projenini Full Görünümü
 
-Mobil Full Görünüm
+ > sanliurfaidep-full-page.png
 
-sanliurfaidep-mobil-full-page.png
+![Full Page](https://github.com/ferhatakbulut/sifir_atik/blob/main/sanliurfaidep-full-page.png?raw=true)
+
+<br>
+
+## Mobil Menu
+
+> sanliurfaidep-mobil-menu.png
+
+![Mobil Menü](https://github.com/ferhatakbulut/sifir_atik/blob/main/sanliurfaidep-mobil-menu.png?raw=true)
+
+
+
+
+## Mobil Full Görünüm
+
+> sanliurfaidep-mobil-full-page.png
+
+![Full Page](https://github.com/ferhatakbulut/sifir_atik/blob/main/sanliurfaidep-mobil-full-page.png?raw=true)
+
+
